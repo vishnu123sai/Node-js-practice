@@ -1,0 +1,19 @@
+{
+  "name": "sample_project",
+  "version": "1.0.0",
+  "description": "This is the Sample Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"node\"",
+    "\"npm\""
+  ],
+  "author": "vishnuvardhan",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.17.1"
+  }
+}

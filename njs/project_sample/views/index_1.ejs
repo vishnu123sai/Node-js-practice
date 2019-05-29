@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>
+            Home Page
+        </title>
+    </head>
+    <style>
+        .para
+        {
+            background-color: blanchedalmond; 
+        }
+    </style>
+    <body>
+        <p class="para"> "Hi This Information about  <%= name %> </h1></p><br>
+        <h3> This is ID of <%= name %> : <%= id %></h3>
+        <div>
+            <%  subject.forEach(function(item){ %>
+                <ul>
+                    <li>
+                        <h4><%= item %></h4>
+                    </li>
+                </ul>
+          <%  }) %>
+        </div>
+    </body>
+</html>

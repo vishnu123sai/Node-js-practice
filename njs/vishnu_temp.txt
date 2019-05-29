@@ -1,0 +1,10 @@
+ 
+Recycles are completed for MCOM, we are able to place the order as both Signed-in & guest user.
+ 
+MCOM-164(SITE_19.06) - Available for testing
+
+Desktop:
+Signed in user - Order number: 408376604286
+Guest user - Order number:  408376604286
+ 
+Mobile sanity also looks good.
